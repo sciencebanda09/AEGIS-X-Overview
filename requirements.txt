@@ -1,0 +1,17 @@
+# AEGIS-X — Reference Dependencies
+# (stubs only — no runnable code in this repo)
+
+# ── Simulation ────────────────────────────────────────────────────
+numpy>=1.26
+scipy>=1.12          # linear_sum_assignment (Hungarian solver)
+matplotlib>=3.8
+
+# ── Raspberry Pi hardware ─────────────────────────────────────────
+# pyserial>=3.5
+# rplidar-roboticia>=0.9
+# opencv-python>=4.9
+# picamera2>=0.3
+# ultralytics>=8.0   # YOLOv8n
+
+# ── Arduino ───────────────────────────────────────────────────────
+# pyserial (same as above)
