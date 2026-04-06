@@ -1,4 +1,4 @@
-# AEGIS-X — Autonomous Drone Interception System
+k# AEGIS-X — Autonomous Drone Interception System
 
 > **88.7% success rate · 13 ms median latency · 94.2% track retention**  
 > Built on Raspberry Pi 5 + Arduino Mega · Fully edge-native · No cloud dependency
@@ -206,8 +206,8 @@ See [`LICENSE`](LICENSE) for full terms.
 
 ## Contact & Licensing
 
-**Built by:** [Your Name] · SentrixLab  
-**Email:** your@email.com  
+**Built by:** Shashank dev · SentrixLab  
+**Email:** coderperson043@email.com  
 **Inquiries:** licensing, defense partnerships, iDEX applications, research collaboration
 
 > *Interested in the full system? Custom deployments and licensing agreements considered.*
